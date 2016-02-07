@@ -15,3 +15,6 @@ different folders.
 
 Also note that some of the live links for projects are currently not working. These live sites don't 
 exist yet, but will be created as the projects are completed.
+
+## Outside code
+* Bootstrap: http://getbootstrap.com/ (only used for image resizing and centering content)
