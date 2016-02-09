@@ -7,7 +7,7 @@
 A single page website that contains some basic information. Includes my name, a photograph, and links to other projects and my Github page.
 
 ## Demo
-To be added.
+http://screencast.com/t/96OcYZCnvmHe
 
 ## Details for teaching team
 Note that the file directory structure of the project separates the CSS files and the images into 
